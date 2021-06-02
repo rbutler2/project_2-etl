@@ -1,0 +1,1 @@
+postgres_url = 'postgresql://{username}:{password}@localhost:5432/etl-project'
